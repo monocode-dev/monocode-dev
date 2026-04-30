@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Monocode</h1>
 <h3 align="center">A passionate frontend websites developer</h3>
 
-- 🌱 I’m currently learning **React.js**
+-  I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [monocode.netlify.app](monocode.netlify.app)
-
-- 💬 Ask me about **frontend development**
+-  All of my projects are available at [monocode.netlify.app](monocode.netlify.app)
 
 - 📫 How to reach me **monocode779@gmail.com**
-
-- 📄 Know about my experiences [monocode.netlify.app](monocode.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
