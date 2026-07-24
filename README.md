@@ -1,12 +1,12 @@
 # Hi, I'm Monocode 
 
-Self-taught full-stack developer based in Algeria, focused on building clean, working products from the ground up — front-end to backend to database.
+Self-taught full-stack developer, focused on building clean, working products from the ground up — front-end to backend to database.
 
-I'm currently deep into backend development (Node.js/Express/SQLite) after building a strong foundation in front-end (HTML, CSS, JavaScript). I learn by building real, working projects rather than just following tutorials — everything in my repos is built and debugged independently.
+I'm currently deep into backend development (Node.js/Express/SQLite) after building a strong foundation in front-end (HTML, CSS, JavaScript). I learn by building real, working projects — everything in my repos is built and debugged independently.
 
 ## 🛠️ Tech Stack
 
-**Front-end:** HTML5, CSS3 (Flexbox, Grid, animations, responsive design), JavaScript (DOM, async/await, Fetch API)
+**Front-end:** HTML, CSS, JavaScript.
 
 **Back-end:** Node.js, Express.js — REST APIs, routing, middleware, validation
 
@@ -14,11 +14,9 @@ I'm currently deep into backend development (Node.js/Express/SQLite) after build
 
 **Tools:** Git, npm, Postman, VS Code
 
-**Currently learning:** Authentication (sessions/JWT), deployment & hosting
-
 ## 📌 Featured Projects
 
-Check the pinned repos below for my most complete work — a full-stack drag-and-drop task manager with a real backend and persistent database is my current best example of what I can build end-to-end.
+Check the pinned repos below for my most complete work.
 
 ## 📫 Get in touch
 
