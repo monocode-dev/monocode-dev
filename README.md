@@ -1,4 +1,4 @@
-# Hi, I'm Monocode 👋
+# Hi, I'm Monocode 
 
 Self-taught full-stack developer based in Algeria, focused on building clean, working products from the ground up — front-end to backend to database.
 
