@@ -1,6 +1,6 @@
 # Hi, I'm Monocode 
 
-Self-taught full-stack developer, focused on building clean, working products from the ground up — front-end to backend to database.
+full-stack developer, focused on building clean, working products and websites from the ground up — front-end to backend to database.
 
 I'm currently deep into backend development (Node.js/Express/SQLite) after building a strong foundation in front-end (HTML, CSS, JavaScript). I learn by building real, working projects — everything in my repos is built and debugged independently.
 
