@@ -2,17 +2,19 @@
 
 full-stack developer, focused on building clean, working products and websites from the ground up — front-end to backend to database.
 
-I'm currently deep into backend development (Node.js/Express/SQLite) after building a strong foundation in front-end (HTML, CSS, JavaScript). I learn by building real, working projects — everything in my repos is built and debugged independently.
+I've built full-stack apps with real authentication (hashed passwords, sessions, per-user data isolation), and I'm currently expanding into React for the front-end. I learn by building real, working projects — everything in my repos is built and debugged independently.
 
 ## 🛠️ Tech Stack
 
-**Front-end:** HTML, CSS, JavaScript.
+**Front-end:** HTML, CSS, JavaScript and React.
 
-**Back-end:** Node.js, Express.js — REST APIs, routing, middleware, validation
+**Back-end:** Node.js, Express.js — REST APIs, routing, middleware, validation.
 
-**Database:** SQLite — schema design, CRUD, persistent storage
+**Database:** SQLite — schema design, CRUD, persistent storage.
 
-**Tools:** Git, npm, Postman, VS Code
+**Auth & Security:** Session-based authentication, bcrypt password hashing, route protection middleware, rate-limit protection per-user data isolation.
+
+**Tools:** Git & GitHub, npm, Postman, VS Code.
 
 ## 📌 Featured Projects
 
