@@ -6,15 +6,15 @@ I've built full-stack apps with real authentication (hashed passwords, sessions,
 
 ## 🛠️ Tech Stack
 
-**Front-end:** HTML, CSS, JavaScript and React.
+**Front-end:** HTML, CSS, TypeScript and React.
 
 **Back-end:** Node.js, Express.js — REST APIs, routing, middleware, validation.
 
-**Database:** SQLite — schema design, CRUD, persistent storage.
+**Database:** PostgreSQL, SQLite — schema design, CRUD, persistent storage.
 
 **Auth & Security:** Session-based authentication, bcrypt password hashing, route protection middleware, rate-limit protection per-user data isolation.
 
-**Tools:** Git & GitHub, npm, Postman, VS Code.
+**Tools:** Git & GitHub, npm, VS Code.
 
 ## 📌 Featured Projects
 
