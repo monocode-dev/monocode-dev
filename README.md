@@ -1,18 +1,19 @@
 # Hi, I'm Monocode 
 
-full-stack developer, focused on building clean, working products and websites from the ground up — front-end to backend to database.
+Backend Specialist full-stack developer, focused on building clean, working products and websites from the ground up — front-end to backend to database.
 
-I've built full-stack apps with real authentication (hashed passwords, sessions, per-user data isolation), and I'm currently expanding into React for the front-end. I learn by building real, working projects — everything in my repos is built and debugged independently.
+Independently designed and built full-stack projects including Notes-app with authentication, multi-user data isolation, and a complete front-end built in React and TypeScript. Comfortable working through unfamiliar problems methodically and fixing bugs independently.
+
 
 ## 🛠️ Tech Stack
 
-**Front-end:** HTML, CSS, TypeScript and React.
+**Front-end:** React, TypeScript, HTML and CSS.
 
-**Back-end:** Node.js, Express.js — REST APIs, routing, middleware, validation.
+**Back-end:** Node.js, Express.js — REST API design, routing, middleware, authentication, caching and rate limiting.
 
-**Database:** PostgreSQL, SQLite — schema design, CRUD, persistent storage.
+**Database:** PostgreSQL, SQLite.
 
-**Auth & Security:** Session-based authentication, bcrypt password hashing, route protection middleware, rate-limit protection per-user data isolation.
+**Auth & Security:** Session-based authentication, password hashing, route protection middleware, per-user data isolation, environmentbased config (dotenv)
 
 **Tools:** Git & GitHub, npm, VS Code.
 
