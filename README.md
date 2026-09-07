@@ -9,9 +9,9 @@ Independently designed and built full-stack projects including Notes-app with au
 
 **Front-end:** React, TypeScript, HTML and CSS.
 
-**Back-end:** Node.js, Express.js — REST API design, routing, middleware, authentication, caching and rate limiting.
+**Back-end:** Node.js, Express.js — REST APIs design, routing, middleware, authentication, caching and rate limiting.
 
-**Database:** PostgreSQL, SQLite.
+**Database:** PostgreSQL.
 
 **Auth & Security:** Session-based authentication, password hashing, route protection middleware, per-user data isolation, environmentbased config (dotenv)
 
@@ -26,7 +26,7 @@ Check the pinned repos below for my most complete work.
 - 📧 Email: monocode779@gmail.com
 - 💬 WhatsApp: +213 792 599 625
 - 📷 Instagram: [@monocode.dev](https://instagram.com/monocode.dev)
-- 🌐 Portfolio: [monocode.netlify.app](https://monocode.netlify.app)
+- 🌐 Portfolio: [monocode.netlify.app](https://monocodeportfolio.vercel.app)
 
 ---
 *Open to junior full-stack roles and freelance projects.*
