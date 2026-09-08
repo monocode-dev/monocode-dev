@@ -25,6 +25,7 @@ Check the pinned repos below for my most complete work.
 
 - 📧 Email: monocode779@gmail.com
 - 💬 WhatsApp: +213 792 599 625
+- 💼 Linkedin: [@monocode-dev](https://www.linkedin.com/in/monocode-dev/)
 - 📷 Instagram: [@monocode.dev](https://instagram.com/monocode.dev)
 - 🌐 Portfolio: [monocode.netlify.app](https://monocodeportfolio.vercel.app)
 
