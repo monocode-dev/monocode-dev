@@ -1,6 +1,6 @@
 # Hi, I'm Monocode 
 
-Junior Backend Specialist full-stack developer, focused on building clean, working products and websites from the ground up — frontend to backend to database.
+Junior Typescript Backend Specialist full-stack developer, focused on building clean, working products and websites — frontend to backend to database.
 
 Independently designed and built full-stack projects including Notes-app with authentication, multi-user data isolation, and a complete front-end built in React and TypeScript. Comfortable designing systems, working through unfamiliar problems methodically and fixing bugs independently.
 
