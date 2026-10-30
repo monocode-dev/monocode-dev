@@ -1,4 +1,4 @@
-# Hi, I'm Monocode 
+# Hi, I'm MonoCode 
 
 Junior Typescript Backend Specialist full-stack developer, focused on building clean, working products and websites — frontend to backend to database.
 
